@@ -1,2 +1,3 @@
 Ta zmiana została wykonana na podstawie zgłoszenia Issue.
 Plik pokazuje przykład wprowadzania zmian w repozytorium.
+.
